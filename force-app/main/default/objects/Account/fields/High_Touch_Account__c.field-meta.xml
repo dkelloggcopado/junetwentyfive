@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>High_Touch_Account__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Indicates the account requires white-glove support and executive attention from Customer Success.</description>
+    <label>High Touch Account</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>
