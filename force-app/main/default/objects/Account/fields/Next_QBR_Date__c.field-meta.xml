@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Next_QBR_Date__c</fullName>
+    <description>Stores the date of the next Quarterly Business Review for this account.</description>
+    <inlineHelpText>Enter the date of the next scheduled QBR with this account.</inlineHelpText>
+    <label>Next QBR Date</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Date</type>
+</CustomField>
