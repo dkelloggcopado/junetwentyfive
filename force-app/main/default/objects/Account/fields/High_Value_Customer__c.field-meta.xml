@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>High_Value_Customer__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Flags accounts with Annual Recurring Revenue over $100,000 as high-value customers</description>
+    <inlineHelpText>Check this box if the account ARR exceeds $100,000</inlineHelpText>
+    <label>High Value Customer</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>
