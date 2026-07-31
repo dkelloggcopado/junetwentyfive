@@ -25,9 +25,9 @@
                 <label>Quality Gates</label>
             </value>
             <value>
-                <fullName>Promotions and Back Promotions</fullName>
+                <fullName>Promotions &amp; Back Promotions</fullName>
                 <default>false</default>
-                <label>Promotions and Back Promotions</label>
+                <label>Promotions &amp; Back Promotions</label>
             </value>
             <value>
                 <fullName>Static Code Analysis (PMD)</fullName>
