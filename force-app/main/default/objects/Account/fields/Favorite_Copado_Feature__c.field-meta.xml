@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Favorite_Copado_Feature__c</fullName>
+    <label>Favorite Copado Feature</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Pipeline Builder</fullName>
+                <default>false</default>
+                <label>Pipeline Builder</label>
+            </value>
+            <value>
+                <fullName>User Stories</fullName>
+                <default>false</default>
+                <label>User Stories</label>
+            </value>
+            <value>
+                <fullName>Quality Gates</fullName>
+                <default>false</default>
+                <label>Quality Gates</label>
+            </value>
+            <value>
+                <fullName>Promotions &amp; Back Promotions</fullName>
+                <default>false</default>
+                <label>Promotions &amp; Back Promotions</label>
+            </value>
+            <value>
+                <fullName>Static Code Analysis (PMD)</fullName>
+                <default>false</default>
+                <label>Static Code Analysis (PMD)</label>
+            </value>
+            <value>
+                <fullName>Compliance Scanning</fullName>
+                <default>false</default>
+                <label>Compliance Scanning</label>
+            </value>
+            <value>
+                <fullName>Git Snapshot / Version Control</fullName>
+                <default>false</default>
+                <label>Git Snapshot / Version Control</label>
+            </value>
+            <value>
+                <fullName>Robotic Test Automation (CRT)</fullName>
+                <default>false</default>
+                <label>Robotic Test Automation (CRT)</label>
+            </value>
+            <value>
+                <fullName>Apex Test Execution</fullName>
+                <default>false</default>
+                <label>Apex Test Execution</label>
+            </value>
+            <value>
+                <fullName>Environment Sync</fullName>
+                <default>false</default>
+                <label>Environment Sync</label>
+            </value>
+            <value>
+                <fullName>Conflict Resolution</fullName>
+                <default>false</default>
+                <label>Conflict Resolution</label>
+            </value>
+            <value>
+                <fullName>Org Intelligence (AI)</fullName>
+                <default>false</default>
+                <label>Org Intelligence (AI)</label>
+            </value>
+            <value>
+                <fullName>Agentia Agents</fullName>
+                <default>false</default>
+                <label>Agentia Agents</label>
+            </value>
+            <value>
+                <fullName>Sprint Wall / Agile Planning</fullName>
+                <default>false</default>
+                <label>Sprint Wall / Agile Planning</label>
+            </value>
+            <value>
+                <fullName>Value Stream Map</fullName>
+                <default>false</default>
+                <label>Value Stream Map</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
